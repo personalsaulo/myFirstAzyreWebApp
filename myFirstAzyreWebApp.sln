@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myFirstAzyreWebApp", "myFirstAzyreWebApp\myFirstAzyreWebApp.csproj", "{27E73100-DDEC-4463-8296-DF2771207034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E73100-DDEC-4463-8296-DF2771207034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E73100-DDEC-4463-8296-DF2771207034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E73100-DDEC-4463-8296-DF2771207034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E73100-DDEC-4463-8296-DF2771207034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C5397B7-8A7D-4F85-9325-39F9043A46E1}
+	EndGlobalSection
+EndGlobal
